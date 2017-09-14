@@ -1,4 +1,4 @@
-//获取调用包名
+//鑾峰彇璋冪敤鍖呭悕
         try {
 
             //this is just a work-around for testWebViewClipWithCircle
@@ -11,8 +11,8 @@
             //Just ignore it now
         }
 
-//获取调用函数
-//一定要try ctatch
+//鑾峰彇璋冪敤鍑芥暟
+//涓�瀹氳try ctatch
   try{
 	StackTraceElement[] stacks = new Throwable().getStackTrace();
 
